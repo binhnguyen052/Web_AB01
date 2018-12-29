@@ -30,7 +30,7 @@
             </div>
           </div>
 
-         
+      g
           <div class="row site-section">
             <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5">
               <img src="public/images/person_1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
