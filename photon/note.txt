@@ -1,0 +1,7 @@
+mô hình MVC
+code thuân php
+controllers có cái chưc năng autoload 
+
+tù khóa: mô hình MVC cho web
+
+
