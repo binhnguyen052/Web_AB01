@@ -1,20 +1,20 @@
-<?php 
+<?php
+
+//biến lưu đường dẫn hình ảnh
 $__href_public = '../public/';
 ?>
-
-
 
 <div class="container-fluid" data-aos="fade" data-aos-delay="500">
     <div class="swiper-container images-carousel">
         <div class="swiper-wrapper">
-          <!-- vong lap tu database -->
+          <!-- database load-->
             <div class="swiper-slide">
               <div class="image-wrap">
                 <div class="image-info">
                   <h2 class="mb-3">Nature</h2>
                   <a href="single.php" class="btn btn-outline-white py-2 px-4">More Photos</a>
                 </div>
-                <img src="../public/images/img_1.jpg" alt="Image">
+                <img src="<?php echo $__href_public; ?>images/img_1.jpg" alt="Image">
               </div>
             </div>
 
@@ -24,7 +24,7 @@ $__href_public = '../public/';
                   <h2 class="mb-3">Portrait</h2>
                   <a href="single.php" class="btn btn-outline-white py-2 px-4">More Photos</a>
                 </div>
-                <img src="../public/images/img_2.jpg" alt="Image">
+                <img src="<?php echo $__href_public; ?>images/img_2.jpg" alt="Image">
               </div>
             </div>
 

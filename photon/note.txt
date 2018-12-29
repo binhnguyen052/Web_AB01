@@ -1,7 +1,9 @@
 mô hình MVC
 code thuân php
-controllers có cái chưc năng autoload 
+controllers: có chức năng autoload 
+điều hướng các trang
 
-tù khóa: mô hình MVC cho web
+
+từ khóa: mô hình MVC cho web
 
 
